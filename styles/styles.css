@@ -224,7 +224,7 @@ section {
 
 .theme-btn i {
   font-size: 1.4rem;
-  color: var(--color-grey-2);
+  color: var(--color-grey-2); 
   pointer-events: none;
 }
 
